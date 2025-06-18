@@ -14,7 +14,7 @@ This repository contains the revised version of our manuscript, where the blue t
     - We also noted that strategies such as Functional Access Restrictions—which may ease caregiver inconvenience—can hinder the development of children’s digital skills (see blue text in Section 6.2).
   
   - **Alternative Outlets for Expression (Section 7.2):**  
-    We propose that, beyond direct dialogue, schools and welfare organizations offer alternative outlets (such as drawing, singing, building blocks, and sandplay therapy) for children with ID to express their needs and feelings (see blue text in Section 7.2).
-  
+    We propose in the Discussion (see blue text in Section 7.2) that, beyond direct dialogue, schools and welfare organizations offer alternative outlets (such as drawing, singing, building blocks, and sandplay therapy) for children with ID to express their needs and feelings.
+ 
   - **Children's Informed Consent:**  
-    In addition, addressing Reviewer C's concerns regarding children's informed consent, we provided further explanations at line XXX in the revised manuscript.
+    We provided further explanations at lines 364-370 in the revised manuscript.
