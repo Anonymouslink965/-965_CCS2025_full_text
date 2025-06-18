@@ -3,7 +3,7 @@
 This repository contains the revised version of our manuscript, where the blue text represents the sections corresponding to the ethical concerns raised by Reviewer A and Reviewer C.
 
 - **Response to Reviewer A's Ethical Concerns (Section 4.3):**  
-  > *We have revised the Ethical Considerations to align with Belmont ethical principles by detailing informed consent procedures, risk–benefit assessments, and equitable participant selection.*
+  *We have revised the Ethical Considerations to align with Belmont ethical principles by detailing informed consent procedures, risk–benefit assessments, and equitable participant selection.*
 
 - **Modifications Addressing Reviewer C's Ethical Concerns:**  
   - **Positionality Statement (Section 4.1):**  
